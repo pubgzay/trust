@@ -6,6 +6,6 @@ function init(){
 	window.location.href = linkPage;
 }
 
-onload="setTimeout('haveclicked();',3000);;">
+onload="setTimeout('haveclicked();',3000);;"
 
 </script>
