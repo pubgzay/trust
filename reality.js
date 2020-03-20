@@ -2,7 +2,7 @@
 
 function init(){
 
-	var linkPage = document.getElementById('dynLink').href;
+	var linkPage = document.getElementById('link').href;
 	window.location.href = linkPage;
 }
 
